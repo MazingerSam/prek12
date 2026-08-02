@@ -1,0 +1,227 @@
+[
+  {
+    "url": "https://www.youcubed.org/tasks/36-fences/",
+    "title": "36 Fences",
+    "topics": [
+      "Shape, Space + Measures",
+      "Patterns + Generalizations",
+      "Number Sense"
+    ],
+    "grades": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/bowl-a-fact/",
+    "title": "Bowl A Fact",
+    "topics": [
+      "Number Sense"
+    ],
+    "grades": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/feet-under-the-table/",
+    "title": "Feet Under the Table",
+    "topics": [
+      "Number Sense"
+    ],
+    "grades": [
+      "K"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/how-many-are-hiding/",
+    "title": "How Many Are Hiding",
+    "topics": [
+      "Number Sense"
+    ],
+    "grades": [
+      "K",
+      "1",
+      "2"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/keep-flip-turn-k-12/",
+    "title": "Keep + Flip + Turn (K-12)",
+    "topics": [
+      "Number Sense",
+      "Patterns + Generalizations",
+      "Shape, Space + Measures",
+      "Data, Probability + Statistics",
+      "Data Science"
+    ],
+    "grades": [
+      "K",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/mouse-count/",
+    "title": "Mouse Count",
+    "topics": [
+      "Number Sense"
+    ],
+    "grades": [
+      "1"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/moving-colors/",
+    "title": "Moving Colors",
+    "topics": [
+      "Number Sense"
+    ],
+    "grades": [
+      "K",
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/pepperoni-pizza/",
+    "title": "Pepperoni Pizza",
+    "topics": [
+      "Number Sense"
+    ],
+    "grades": [
+      "K",
+      "1",
+      "2"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/pig/",
+    "title": "Pig",
+    "topics": [
+      "Number Sense"
+    ],
+    "grades": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/shut-the-box/",
+    "title": "Shut the Box",
+    "topics": [
+      "Number Sense"
+    ],
+    "grades": [
+      "K",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/snap-it/",
+    "title": "Snap It",
+    "topics": [
+      "Number Sense"
+    ],
+    "grades": [
+      "K",
+      "1",
+      "2"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/sums-investigation/",
+    "title": "Sums Investigation",
+    "topics": [
+      "Number Sense"
+    ],
+    "grades": [
+      "K",
+      "1",
+      "2"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/the-pocket-game/",
+    "title": "The Pocket Game",
+    "topics": [
+      "Number Sense"
+    ],
+    "grades": [
+      "K"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/tic-tac-toe-sums/",
+    "title": "Tic-Tac-Toe Sums",
+    "topics": [
+      "Number Sense"
+    ],
+    "grades": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "url": "https://www.youcubed.org/tasks/what-do-you-see/",
+    "title": "What do you see?",
+    "topics": [
+      "Patterns + Generalizations",
+      "Data Science",
+      "Data, Probability + Statistics",
+      "Shape, Space + Measures",
+      "Number Sense"
+    ],
+    "grades": [
+      "K",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ]
+  }
+]

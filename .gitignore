@@ -1,0 +1,12 @@
+# Python virtual environment & cache
+.venv/
+__pycache__/
+*.pyc
+
+# Local system temporary files
+.DS_Store
+Thumbs.db
+*.log
+
+# Heavy binary PDF outputs (Optional: un-comment if you don't want to push PDFs)
+# *.pdf
