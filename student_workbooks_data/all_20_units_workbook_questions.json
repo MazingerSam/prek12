@@ -1,0 +1,2042 @@
+[
+  {
+    "unit": 1,
+    "title": "折斷積木 (Snap It!)",
+    "target": "10的拆解與加減補數",
+    "concept": "10 = a + b",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (3)：",
+        "equation": "3 + ___ = 10",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (5)：",
+        "equation": "5 + ___ = 10",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (2)：",
+        "equation": "2 + ___ = 10",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (8)：",
+        "equation": "8 + ___ = 10",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (4)：",
+        "equation": "4 + ___ = 10",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (6)：",
+        "equation": "6 + ___ = 10",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (1)：",
+        "equation": "1 + ___ = 10",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (9)：",
+        "equation": "9 + ___ = 10",
+        "answer": "1",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (7)：",
+        "equation": "7 + ___ = 10",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (0)：",
+        "equation": "0 + ___ = 10",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】小熊有 10 顆糖果，分給小兔 4 顆後，小熊自己還剩下幾顆糖果？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】彩虹積木條一共有 10 節。小狐狸折斷成兩截，其中一截有 8 節，另一截有幾節？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "title": "躲起來的有幾個？ (How Many Are Hiding?)",
+    "target": "未知數減法逆運算",
+    "concept": "10 - a = b",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (4)：",
+        "equation": "10 - 4 = ___",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (7)：",
+        "equation": "10 - 7 = ___",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (3)：",
+        "equation": "10 - 3 = ___",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (5)：",
+        "equation": "10 - 5 = ___",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (2)：",
+        "equation": "10 - 2 = ___",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (8)：",
+        "equation": "10 - 8 = ___",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (1)：",
+        "equation": "10 - 1 = ___",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (9)：",
+        "equation": "10 - 9 = ___",
+        "answer": "1",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (6)：",
+        "equation": "10 - 6 = ___",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (0)：",
+        "equation": "10 - 0 = ___",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】盤子裡原本有 10 塊餅乾，小貓吃掉了一些後，還剩下 3 塊。請問小貓吃掉了幾塊餅乾？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】樹上有 10 隻小鳥，飛走了一些後，還剩下 6 隻。請問飛走了幾隻小鳥？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "title": "桌底下的腳 (Feet Under the Table)",
+    "target": "2的倍數與跳數",
+    "concept": "2 × n",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (2位)：",
+        "equation": "2 + 2 = ___ (2位小動物)",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (3位)：",
+        "equation": "2 + 2 + 2 = ___ (3位小動物)",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (4位)：",
+        "equation": "2 + 2 + 2 + 2 = ___ (4位小動物)",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (5位)：",
+        "equation": "2 + 2 + 2 + 2 + 2 = ___ (5位小動物)",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (跳數)：",
+        "equation": "2, 4, 6, ___, 10 (填寫跳數數字)",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (6隻)：",
+        "equation": "6 隻腳共有 ___ 對腳？",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (10隻)：",
+        "equation": "10 隻腳共有 ___ 對腳？",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (4隻)：",
+        "equation": "4 隻腳共有 ___ 對腳？",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (6位)：",
+        "equation": "2 + 2 + 2 + 2 + 2 + 2 = ___ (6位小動物)",
+        "answer": "12",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (2+8)：",
+        "equation": "2 隻腳加 8 隻腳共有 ___ 隻腳？",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】野餐桌布下露出了 12 隻小腳丫，如果每位小動物有 2 隻腳，請問桌後面坐了幾位小動物？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】草地上有 5 位小朋友，每個人有 2 隻手，請算算看他們一共有幾隻手？寫出連加算式。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "title": "老鼠捕鼠罐 (Mouse Count)",
+    "target": "數量守恆與空間分佈",
+    "concept": "a + b = 10",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (6+4)：",
+        "equation": "罐裡 6 隻，草地 4 隻，共 ___ 隻",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (5+5)：",
+        "equation": "罐裡 5 隻，草地 5 隻，共 ___ 隻",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (7+3)：",
+        "equation": "罐裡 7 隻，草地 3 隻，共 ___ 隻",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (2+8)：",
+        "equation": "罐裡 2 隻，草地 8 隻，共 ___ 隻",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (1+?)：",
+        "equation": "草地有 1 隻，罐裡有 ___ 隻？",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (9+?)：",
+        "equation": "草地有 9 隻，罐裡有 ___ 隻？",
+        "answer": "1",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (3+?)：",
+        "equation": "草地有 3 隻，罐裡有 ___ 隻？",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (8+?)：",
+        "equation": "草地有 8 隻，罐裡有 ___ 隻？",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (10+?)：",
+        "equation": "草地有 10 隻，罐裡有 ___ 隻？",
+        "answer": "0",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (4+?)：",
+        "equation": "罐裡有 4 隻，草地有 ___ 隻？",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】玻璃罐裡有 10 隻彩鼠，有 3 隻跑到了草地上。請問罐子裡還剩下幾隻彩鼠？全部加起來還是 10 隻嗎？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】小老鼠們在玩躲貓貓，總共有 10 隻老鼠。躲在樹洞裡有 7 隻，外面有幾隻？寫出加法與減法算式。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "title": "口袋里的秘密 (The Pocket Game)",
+    "target": "數據分類與數量比較相差",
+    "concept": "a - b = 差",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (4-2)：",
+        "equation": "4 個口袋比 2 個口袋多 ___ 個",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (6-3)：",
+        "equation": "6 個口袋比 3 個口袋多 ___ 個",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (5-1)：",
+        "equation": "5 個口袋比 1 個口袋多 ___ 個",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (7-4)：",
+        "equation": "7 個口袋比 4 個口袋多 ___ 個",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (8-5)：",
+        "equation": "8 個口袋比 5 個口袋多 ___ 個",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (5-3)：",
+        "equation": "3 個口袋比 5 個口袋少 ___ 個",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (7-2)：",
+        "equation": "2 個口袋比 7 個口袋少 ___ 個",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (9-6)：",
+        "equation": "9 個口袋比 6 個口袋多 ___ 個",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (10-4)：",
+        "equation": "10 個口袋比 4 個口袋多 ___ 個",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (5-5)：",
+        "equation": "5 個口袋比 5 個口袋相差 ___ 個",
+        "answer": "0",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】小狗衣服上有 3 個口袋，小貓衣服上有 7 個口袋。誰的口袋比較多？多幾個？寫出減法算式。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】吊帶褲有 4 個口袋，流行外套有 8 個口袋。請問這兩件衣服一共有幾個口袋？外套比吊帶褲多幾個口袋？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "title": "移動的色彩 (Moving Colors)",
+    "target": "分類集合加法與結合律",
+    "concept": "a + b = c",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (5+4)：",
+        "equation": "5 紅彩帶 + 4 藍彩帶 = ___ 彩帶",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (3+6)：",
+        "equation": "3 紅彩帶 + 6 藍彩帶 = ___ 彩帶",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (2+7)：",
+        "equation": "2 紅彩帶 + 7 藍彩帶 = ___ 彩帶",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (4+4)：",
+        "equation": "4 紅彩帶 + 4 藍彩帶 = ___ 彩帶",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (6+2)：",
+        "equation": "6 紅彩帶 + 2 藍彩帶 = ___ 彩帶",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (1+8)：",
+        "equation": "1 紅彩帶 + 8 藍彩帶 = ___ 彩帶",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (5+5)：",
+        "equation": "5 紅彩帶 + 5 藍彩帶 = ___ 彩帶",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (7+1)：",
+        "equation": "7 紅彩帶 + 1 藍彩帶 = ___ 彩帶",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (9-5)：",
+        "equation": "9 人中 5 人拿紅彩帶，拿藍彩帶有 ___ 人",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (8-3)：",
+        "equation": "8 人中 3 人拿紅彩帶，拿藍彩帶有 ___ 人",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】舞蹈班上，有 6 位同學拿紅彩帶，4 位同學拿藍彩帶。請問舞台上共有幾位同學？寫出加法算式。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】舞台上有 10 位跳舞的小朋友，其中有 7 位穿紅衣服，其餘穿藍衣服。請問穿藍衣服的有幾位小朋友？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "title": "你看到了什麼？ (What Do You See?)",
+    "target": "點陣視覺心算與同數拆解",
+    "concept": "3+3 或 2+2+2",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (3+3)：",
+        "equation": "2×3點陣：3 + 3 = ___",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (2+2+2)：",
+        "equation": "2×3點陣：2 + 2 + 2 = ___",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (4+4)：",
+        "equation": "2×4點陣：4 + 4 = ___",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (2×4)：",
+        "equation": "2×4點陣：2 + 2 + 2 + 2 = ___",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (3+3+3)：",
+        "equation": "3×3點陣：3 + 3 + 3 = ___",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (5+5)：",
+        "equation": "2×5點陣：5 + 5 = ___",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (4+4+4)：",
+        "equation": "4 + 4 + 4 = ___ (3個4)",
+        "answer": "12",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (5+5+5)：",
+        "equation": "5 + 5 + 5 = ___ (3個5)",
+        "answer": "15",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (6拆半)：",
+        "equation": "6 可以分成 ___ + ___ (兩個相同的數)",
+        "answer": "3 + 3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (8拆半)：",
+        "equation": "8 可以分成 ___ + ___ (兩個相同的數)",
+        "answer": "4 + 4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】貓頭鷹博士在黑板上畫了 2x4 的星陣圖。小羊看到 4+4=8，小猴看到 2+2+2+2=8。請你畫畫看並寫出你的觀察方法。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】請畫出一個由 10 顆星星組成的點陣圖，並說明你是怎麼把它分組算出來的？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "title": "骰子點數點點名 (Dot Patterns)",
+    "target": "點陣速算與兩數相加",
+    "concept": "a + b = c",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (3+4)：",
+        "equation": "⚂ (3點) + ⚃ (4點) = ___ 點",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (1+6)：",
+        "equation": "⚀ (1點) + ⚅ (6點) = ___ 點",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (2+5)：",
+        "equation": "⚁ (2點) + ⚄ (5點) = ___ 點",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (3+5)：",
+        "equation": "⚂ (3點) + ⚄ (5點) = ___ 點",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (4+4)：",
+        "equation": "⚃ (4點) + ⚃ (4點) = ___ 點",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (5+6)：",
+        "equation": "⚄ (5點) + ⚅ (6點) = ___ 點",
+        "answer": "11",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (2+4)：",
+        "equation": "⚁ (2點) + ⚃ (4點) = ___ 點",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (3+6)：",
+        "equation": "⚂ (3點) + ⚅ (6點) = ___ 點",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (6+6)：",
+        "equation": "⚅ (6點) + ⚅ (6點) = ___ 點",
+        "answer": "12",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (7-4)：",
+        "equation": "擲出 7 點，一顆是 4 點，另一顆是 ___ 點",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】企鵝波波擲出兩顆骰子，一顆是 5 點，另一顆是 4 點。請算出總點數，並寫出算式。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】小熊擲出兩顆骰子，得到的總點數是 9 點。如果其中一顆是 3 點，請推算另一顆骰子是幾點？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "title": "比薩配料大師 (Pepperoni Pizza)",
+    "target": "同數連加與乘法直覺",
+    "concept": "n 個 a 連加",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (3個4)：",
+        "equation": "3 片披薩，每片 4 臘腸：4 + 4 + 4 = ___",
+        "answer": "12",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (2個5)：",
+        "equation": "2 片披薩，每片 5 臘腸：5 + 5 = ___",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (4個3)：",
+        "equation": "4 片披薩，每片 3 臘腸：3 + 3 + 3 + 3 = ___",
+        "answer": "12",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (3個3)：",
+        "equation": "3 片披薩，每片 3 臘腸：3 + 3 + 3 = ___",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (5個2)：",
+        "equation": "5 片披薩，每片 2 臘腸：2 + 2 + 2 + 2 + 2 = ___",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (2個6)：",
+        "equation": "2 片披薩，每片 6 臘腸：6 + 6 = ___",
+        "answer": "12",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (4個2)：",
+        "equation": "4 片披薩，每片 2 臘腸：2 + 2 + 2 + 2 = ___",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (3個5)：",
+        "equation": "3 片披薩，每片 5 臘腸：5 + 5 + 5 = ___",
+        "answer": "15",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (4個5)：",
+        "equation": "4 個 5 連加是 ___",
+        "answer": "20",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (6個2)：",
+        "equation": "6 個 2 連加是 ___",
+        "answer": "12",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】小熊主廚烤了 4 片披薩，每片披薩上面有 3 片香菇。請問一共有幾片香菇？請畫圖並寫出連加算式。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】小狗買了 3 盒拿鐵，每盒裡面有 5 罐。請問小狗一共買了幾罐拿鐵？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 10,
+    "title": "關箱大挑戰 (Shut the Box)",
+    "target": "數字靈活拆解與加法組合",
+    "concept": "a + b = 8",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (8-3)：",
+        "equation": "骰子和為 8，翻倒 3 後還需翻倒 ___",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (8-2)：",
+        "equation": "骰子和為 8，翻倒 2 後還需翻倒 ___",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (8-1)：",
+        "equation": "骰子和為 8，翻倒 1 後還需翻倒 ___",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (9-4)：",
+        "equation": "骰子和為 9，翻倒 4 後還需翻倒 ___",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (9-2)：",
+        "equation": "骰子和為 9，翻倒 2 後還需翻倒 ___",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (7-3)：",
+        "equation": "骰子和為 7，翻倒 3 後還需翻倒 ___",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (10-4)：",
+        "equation": "骰子和為 10，翻倒 4 後還需翻倒 ___",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (6-2)：",
+        "equation": "骰子和為 6，翻倒 2 後還需翻倒 ___",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (1+3+?)：",
+        "equation": "把 9 拆成三個數字相加：1 + 3 + ___ = 9",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (1+2+?)：",
+        "equation": "把 8 拆成三個數字相加：1 + 2 + ___ = 8",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】鸚鵡小藍擲出點數和 9，它想一次翻倒兩張木牌。請寫出 3 種加起來等於 9 的數字組合。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】在關箱遊戲中，還剩下 2、4、5 三張木牌。請問這三張木牌的數字和是多少？小藍擲出幾點才能剛好全部關閉？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 11,
+    "title": "井字和連線 (Tic-Tac-Toe Sums)",
+    "target": "加數與目標和對應",
+    "concept": "a + b = c",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (2+3)：",
+        "equation": "滑軌移到 2 與 3，目標和為 ___",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (4+3)：",
+        "equation": "滑軌移到 4 與 3，目標和為 ___",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (5+4)：",
+        "equation": "滑軌移到 5 與 4，目標和為 ___",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (1+5)：",
+        "equation": "滑軌移到 1 與 5，目標和為 ___",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (3+3)：",
+        "equation": "滑軌移到 3 與 3，目標和為 ___",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (5+5)：",
+        "equation": "滑軌移到 5 與 5，目標和為 ___",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (8-3)：",
+        "equation": "想佔領 8，一數為 3，另一數需移到 ___",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (7-2)：",
+        "equation": "想佔領 7，一數為 2，另一數需移到 ___",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (6-4)：",
+        "equation": "想佔領 6，一數為 4，另一數需移到 ___",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (10-4)：",
+        "equation": "想佔領 10，一數為 4，另一數需移到 ___",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】小恐龍想佔領棋盤上的數字 8，目前一個滑子停在 3。請幫小恐龍算出另一個滑子應該移到哪個數字？寫出算式。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】小狐狸想佔領數字 9，請寫出 2 種利用 0 到 5 的數字相加等於 9 的算式組合。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 12,
+    "title": "搶豬遊戲 (Pig Game)",
+    "target": "連續加法心算與累加",
+    "concept": "累計總和",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (3+4)：",
+        "equation": "第1次擲3點，第2次擲4點，累計 ___ 點",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (7+5)：",
+        "equation": "已有7點，第3次擲5點，累計 ___ 點",
+        "answer": "12",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (12+2)：",
+        "equation": "已有12點，第4次擲2點，累計 ___ 點",
+        "answer": "14",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (14+6)：",
+        "equation": "已有14點，第5次擲6點，累計 ___ 點",
+        "answer": "20",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (歸零)：",
+        "equation": "已有15點，擲出 1 點歸零，得分為 ___ 點",
+        "answer": "0",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (18+3)：",
+        "equation": "已有18點，再擲出 3 點，累計 ___ 點",
+        "answer": "21",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (20+5)：",
+        "equation": "已有20點，再擲出 5 點，累計 ___ 點",
+        "answer": "25",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (5+4+3)：",
+        "equation": "5 + 4 + 3 = ___ 點",
+        "answer": "12",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (6+5+4)：",
+        "equation": "6 + 5 + 4 = ___ 點",
+        "answer": "15",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (25-19)：",
+        "equation": "目標25點，已有19點，還差 ___ 點",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】小豬連續擲了三次骰子，分別得到 4 點、5 點與 3 點。請問小豬這回合一共獲得了多少分？寫出算式。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】小羊目前累積了 17 分，目標是達到 25 分。請問小羊至少還需要獲得幾分才能達到目標？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 13,
+    "title": "尋找和的探索 (Sums Investigation)",
+    "target": "有序窮舉與算式分類",
+    "concept": "1,2,3,4 組合",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (1+4)：",
+        "equation": "用1,2,3,4兩數相加：1 + 4 = ___",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (2+3)：",
+        "equation": "用1,2,3,4兩數相加：2 + 3 = ___",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (1+2)：",
+        "equation": "用1,2,3,4兩數相加：1 + 2 = ___",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (1+3)：",
+        "equation": "用1,2,3,4兩數相加：1 + 3 = ___",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (2+4)：",
+        "equation": "用1,2,3,4兩數相加：2 + 4 = ___",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (3+4)：",
+        "equation": "用1,2,3,4兩數相加：3 + 4 = ___",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (和5組合)：",
+        "equation": "和為 5 的組合共有 ___ 種？",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (最大和)：",
+        "equation": "最大的和是 3 + 4 = ___",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (最小和)：",
+        "equation": "最小的和是 1 + 2 = ___",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (全加)：",
+        "equation": "加總 1 + 2 + 3 + 4 = ___",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】小刺蝟用 1, 2, 3, 4 四張卡片排列組合，請問可以組合出哪些不同的「加法和」？請全部列出來。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】如果再加入一張數字 5 卡片（使用 1, 2, 3, 4, 5），請問能組合出加總等於 6 的算式有哪幾種？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 14,
+    "title": "保齡球算式 (Bowl A Fact)",
+    "target": "三數加減運算與符號",
+    "concept": "a ± b ± c",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (1+2+3)：",
+        "equation": "骰出 1, 2, 3：1 + 2 + 3 = ___ 號瓶",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (3+2-1)：",
+        "equation": "骰出 1, 2, 3：3 + 2 - 1 = ___ 號瓶",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (3+1-2)：",
+        "equation": "骰出 1, 2, 3：3 + 1 - 2 = ___ 號瓶",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (2+3+4)：",
+        "equation": "骰出 2, 3, 4：2 + 3 + 4 = ___ 號瓶",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (4+3-2)：",
+        "equation": "骰出 2, 3, 4：4 + 3 - 2 = ___ 號瓶",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (5+4-1)：",
+        "equation": "骰出 1, 4, 5：5 + 4 - 1 = ___ 號瓶",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (5-4+1)：",
+        "equation": "骰出 1, 4, 5：5 - 4 + 1 = ___ 號瓶",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (3+3+3)：",
+        "equation": "骰出 3, 3, 3：3 + 3 + 3 = ___ 號瓶",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (4+4-2)：",
+        "equation": "骰出 2, 4, 4：4 + 4 - 2 = ___ 號瓶",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (6+3+1)：",
+        "equation": "骰出 1, 3, 6：6 + 3 + 1 = ___ 號瓶",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】鴕鳥選手擲出三個骰子，點數分別為 2, 3, 5。請寫出兩種不同的加減算式，幫它擊倒保齡球瓶。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】如果擲出 1, 4, 5，請寫出一個加減算式讓答案等於 8 號保齡球瓶！",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 15,
+    "title": "圖形與點陣排排隊 (Pattern Blocks)",
+    "target": "幾何圖形特徵與數量統計",
+    "concept": "圖形加法",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (2+4)：",
+        "equation": "2 個正方形 + 4 個三角形 = ___ 個幾何塊",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (3+5)：",
+        "equation": "3 個黃正方形 + 5 個藍三角形 = ___ 個幾何塊",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (4+4)：",
+        "equation": "4 個綠三角形 + 4 個紅梯形 = ___ 個幾何塊",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (6+2)：",
+        "equation": "6 個三角形 + 2 個正方形 = ___ 個幾何塊",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (4+3)：",
+        "equation": "1 個正方形 (4邊) + 1 個三角形 (3邊) 共 ___ 條邊",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (4+4)：",
+        "equation": "2 個正方形共有 ___ 條邊",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (3+3+3)：",
+        "equation": "3 個三角形共有 ___ 條邊",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (10-6)：",
+        "equation": "蝴蝶一共用了 10 個塊，其中 6 個是三角形，正方形有 ___ 個",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (5+3)：",
+        "equation": "5 個梯形 + 3 個正方形 = ___ 個幾何塊",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (4+6)：",
+        "equation": "4 個正方形 + 6 個三角形 = ___ 個幾何塊",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】小松鼠拼貼了一隻幾何大蝴蝶，用了 4 個正方形與 6 個三角形。請問這隻蝴蝶一共用了幾個幾何塊？寫出算式。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】小松鼠還想拼一朵花，用了 3 個紅梯形和 5 個綠三角形。花朵一共用了幾個幾何塊？哪種形狀比較多？多幾個？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 16,
+    "title": "神奇 10 格陣 (Ten-Frame Explorers)",
+    "target": "十格陣空間陣列與10的補數",
+    "concept": "10格陣算式",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (10-7)：",
+        "equation": "10格陣填滿 7 格，還剩 ___ 空格",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (10-6)：",
+        "equation": "10格陣填滿 6 格，還剩 ___ 空格",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (10-4)：",
+        "equation": "10格陣填滿 4 格，還剩 ___ 空格",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (10-8)：",
+        "equation": "10格陣填滿 8 格，還剩 ___ 空格",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (10-9)：",
+        "equation": "10格陣填滿 9 格，還剩 ___ 空格",
+        "answer": "1",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (10-2)：",
+        "equation": "10格陣填滿 2 格，還剩 ___ 空格",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (7+3)：",
+        "equation": "7 隻青蛙 + 3 空格 = ___",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (5+5)：",
+        "equation": "5 隻青蛙 + 5 空格 = ___",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (1+9)：",
+        "equation": "1 隻青蛙 + 9 空格 = ___",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (10-10)：",
+        "equation": "10格陣填滿 10 格，還剩 ___ 空格",
+        "answer": "0",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】荷花池裡的 2x5 十格陣蓮葉上停了 8 隻小樹蛙。請問蓮葉陣上還有幾個空位？請畫出十格陣並寫出算式。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】小樹蛙大合唱隊要把 10 格蓮葉陣全坐滿，現在已經坐了 4 隻，還需要再飛來幾隻小樹蛙？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 17,
+    "title": "天平兩端一樣重 (Balance Scale Equals)",
+    "target": "等號「=」平衡與代數相等",
+    "concept": "a = b",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (5=5)：",
+        "equation": "左盤 5 個積木 = 右盤 ___ 個積木",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (3+2)：",
+        "equation": "左盤 3+2 個積木 = 右盤 ___ 個積木",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (4+4)：",
+        "equation": "左盤 4+4 個積木 = 右盤 ___ 個積木",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (6-2)：",
+        "equation": "左盤 6 個積木 = 右盤 2 + ___ 個積木",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (7-3)：",
+        "equation": "左盤 7 個積木 = 右盤 3 + ___ 個積木",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (10-5)：",
+        "equation": "左盤 10 個積木 = 右盤 5 + ___ 個積木",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (10-8)：",
+        "equation": "左盤 8 個積木 = 右盤 10 - ___ 個積木",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (9-4)：",
+        "equation": "左盤 9 個積木 = 右盤 4 + ___ 個積木",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (5+3-4)：",
+        "equation": "天平平衡時，5 + 3 = ___ + 4",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (6+2-4)：",
+        "equation": "天平平衡時，6 + 2 = 4 + ___",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】小熊在天平左邊放了 6 個黃積木，小猴子在右邊放了 2 個藍積木。天平往左邊傾斜了！小猴子還需要再加幾個藍積木才能讓天平平衡？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】天平左邊放了 4 + 5 個積木，右邊放了 3 + ? 個積木。要讓天平平衡，右邊問號應該填入數字幾？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 18,
+    "title": "點數走步棋 (Number Line Jumpers)",
+    "target": "數線加減位移與方向性",
+    "concept": "起點 ± 位移 = 終點",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (2+4)：",
+        "equation": "從 2 向右跳 4 格：2 + 4 = ___",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (3+5)：",
+        "equation": "從 3 向右跳 5 格：3 + 5 = ___",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (1+7)：",
+        "equation": "從 1 向右跳 7 格：1 + 7 = ___",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (6+3)：",
+        "equation": "從 6 向右跳 3 格：6 + 3 = ___",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (8-3)：",
+        "equation": "從 8 向左跳 3 格：8 - 3 = ___",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (10-4)：",
+        "equation": "速算：從 10 向左跳 4 格：10 - 4 = ___",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (7-5)：",
+        "equation": "從 7 向左跳 5 格：7 - 5 = ___",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (5+5)：",
+        "equation": "從 5 向右跳 5 格：5 + 5 = ___",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (9-6)：",
+        "equation": "從 9 向左跳 6 格：9 - 6 = ___",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (4+6)：",
+        "equation": "從 4 向右跳 6 格：4 + 6 = ___",
+        "answer": "10",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】小袋鼠在 0~10 彩虹數線上，從起點 3 開始向右跳了 5 格，停在哪個數字上？請畫出數線跳躍軌跡並寫出算式。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】小袋鼠停在數字 9 上，接著向左後退跳了 4 格。請問它現在停在哪個數字上？寫出減法算式。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 19,
+    "title": "比一比，誰比較多？ (More or Less Cards)",
+    "target": "一對一配對與減法相差",
+    "concept": "a - b = 差",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (6-4)：",
+        "equation": "6 紅蘋果比 4 綠蘋果多 ___ 顆",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (7-3)：",
+        "equation": "7 紅蘋果比 3 綠蘋果多 ___ 顆",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (8-5)：",
+        "equation": "8 紅蘋果比 5 綠蘋果多 ___ 顆",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (5-2)：",
+        "equation": "5 紅蘋果比 2 綠蘋果多 ___ 顆",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (9-4)：",
+        "equation": "9 紅蘋果比 4 綠蘋果多 ___ 顆",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (8-3)：",
+        "equation": "3 綠蘋果比 8 紅蘋果少 ___ 顆",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (10-4)：",
+        "equation": "4 綠蘋果比 10 紅蘋果少 ___ 顆",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (10-7)：",
+        "equation": "10 紅蘋果比 7 綠蘋果多 ___ 顆",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (9-6)：",
+        "equation": "6 綠蘋果比 9 紅蘋果少 ___ 顆",
+        "answer": "3",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (8-8)：",
+        "equation": "8 紅蘋果與 8 綠蘋果相差 ___ 顆",
+        "answer": "0",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】小兔採了 8 顆紅蘋果，小豬採了 5 顆綠蘋果。請畫出一對一拉線配對圖，並算算看小兔比小豬多採了幾顆蘋果？",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】果園裡有 10 棵蘋果樹與 6 棵梨子樹。請問蘋果樹比梨子樹多幾棵？寫出減法算式。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  },
+  {
+    "unit": 20,
+    "title": "數感探險家總複習 (Math Mindset Celebration)",
+    "target": "綜合能力總複習與挑戰",
+    "concept": "綜合挑戰",
+    "practice_problems": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "question": "第 1 題：請算出正確答案 (10-4)：",
+        "equation": "拆解：10 = 4 + ___",
+        "answer": "6",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "question": "第 2 題：請算出正確答案 (10-3)：",
+        "equation": "減法：10 - 3 = ___",
+        "answer": "7",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "question": "第 3 題：請算出正確答案 (跳數)：",
+        "equation": "倍數跳數：2, 4, 6, ___, 10",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "question": "第 4 題：請算出正確答案 (3+3+3)：",
+        "equation": "連加：3 + 3 + 3 = ___",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "question": "第 5 題：請算出正確答案 (10-8)：",
+        "equation": "十格陣：8 格滿，空 ___ 格",
+        "answer": "2",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "question": "第 6 題：請算出正確答案 (4+4)：",
+        "equation": "天平平衡：4 + 4 = ___",
+        "answer": "8",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "question": "第 7 題：請算出正確答案 (3+6)：",
+        "equation": "數線位移：從 3 向右跳 6 格到 ___",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "question": "第 8 題：請算出正確答案 (9-5)：",
+        "equation": "比較：9 比 5 多 ___",
+        "answer": "4",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "question": "第 9 題：請算出正確答案 (2+3+4)：",
+        "equation": "三數加法：2 + 3 + 4 = ___",
+        "answer": "9",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "question": "第 10 題：請算出正確答案 (10/2)：",
+        "equation": "終極挑戰：5 + 5 = 2 × ___",
+        "answer": "5",
+        "workspace_hint": "【學生計算與思考留白空間】\n（請在此處畫圖、點數或寫下計算過程）\n\n\n"
+      }
+    ],
+    "homework_problems": [
+      {
+        "id": 1,
+        "type": "story_problem",
+        "question": "【回家作業 1】【畢業總挑戰 1】恭喜你完成 20 個單元！請寫出 3 種相加等於 10 的算式，證明你是數感大師！",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      },
+      {
+        "id": 2,
+        "type": "story_problem",
+        "question": "【回家作業 2】【畢業總挑戰 2】小熊說：「5 + 5 = 10」，小猴說：「2 + 8 = 10」，請問他們說的都對嗎？為什麼？請畫圖說明。",
+        "workspace_hint": "【學生作業答題與完整計算/畫圖解題空間】\n算式：_____________________\n我的畫圖與解題思考過程：\n\n\n答：_____________________\n"
+      }
+    ]
+  }
+]
