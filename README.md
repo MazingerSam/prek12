@@ -19,7 +19,9 @@
 
 ## 📂 目錄結構
 
-- `curriculum/K_Term1/`：20 個單元的繁體中文詳細 Markdown 教案檔。
+- `curriculum/K_Term1/`：大班/小一上學期 20 個單元的繁體中文詳細 Markdown 教案檔。
+- `curriculum/G1_Term2/`：小學一年級下學期 20 個單元 (1.5小時/含CPA教具操作與題目解答) 啟發式數學與數感教案。
+- `units_g1_term2_master.json`：小一下學期全套 20 單元結構化元資料庫。
 - `generated_art/`：教具與美工圖解庫。
 - `PIXAR_STORYBOOK_MATH_ART_SKILL.md`：兒童數學美工繪本設計 SOP 文件。
 - `Elementary_Math_Curriculum_Pixar_Storybook_Master.pdf`：全套 20 單元彩色繪本電子書 PDF。
